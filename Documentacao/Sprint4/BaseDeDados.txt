@@ -1,0 +1,3 @@
+Base de Dados utilizada no recurso de Sistemas Inteligentes (Classificador de Senhas):
+
+https://www.kaggle.com/bhavikbb/password-strength-classifier-dataset
